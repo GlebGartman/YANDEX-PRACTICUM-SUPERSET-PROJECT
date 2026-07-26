@@ -96,4 +96,4 @@ COUNT(*)
 - отображение значений рядом со столбцами;
 - скрыта легенда
 
-![Средняя цена по видам зерна](https://drive.google.com/uc?export=view&id=198SQ-LMumyQrfZSzeqF60XXfLjkH8tbl)
+![Динамика средней цены](https://drive.google.com/uc?export=view&id=1-62pu-iYXBtVIzegtJCBAppSX5iV0SrG)
