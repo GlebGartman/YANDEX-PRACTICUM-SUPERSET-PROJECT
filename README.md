@@ -159,7 +159,7 @@ COUNT(*)
 - применение интерактивных фильтров
 - быстрое выявление тенденций и закономерностей
 
-![Итоговый дашборд](https://drive.google.com/uc?export=view&id=198SQ-LMumyQrfZSzeqF60XXfLjkH8tbl)
+![Итоговый дашборд](https://drive.google.com/uc?export=view&id=1NU13iVUF6AO3_W0-bv0IMBsxwkbWYF5D)
 
 ---
 
