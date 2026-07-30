@@ -167,4 +167,4 @@ COUNT(*)
 
 Посмотреть готовый дашборд в Apache Superset можно по ссылке:
 
-👉 https://superset.dv-bi-tools.education-services.ru/superset/dashboard/p/Nja1v80m6pL/
+👉 [Открыть интерактивный дашборд в Apache Superset](https://superset.dv-bi-tools.education-services.ru/superset/dashboard/p/Nja1v80m6pL/)
